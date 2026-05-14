@@ -10,7 +10,7 @@ export default function App() {
           <img src="/logo_new.png" alt="Transparency Labs logo" />
           <div>
             <strong>Transparency Labs</strong>
-            <span>Interpretable clinical AI</span>
+            <span>Reimagining decisions. Led by experts, backed by AI</span>
           </div>
         </a>
 
