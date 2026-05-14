@@ -15,10 +15,9 @@ export default function App() {
         </a>
 
         <div className="navLinks">
-          <a href="#research">Technology</a>
+          <a href="#research">Research &amp; Technology</a>
           <a href="#platform">Platform</a>
           <a href="#about">About</a>
-          <a href="#research">Research</a>
           <a className="navButton" href={EMAIL}>Get in touch</a>
         </div>
       </nav>
